@@ -51,14 +51,14 @@ npm run lint
 ##  Folder Structure
 ```
 project/
-├── public/             # Static assets
-├── src/                # Application source code (React components, hooks, pages, etc.)
-├── index.html          # App entry point
-├── package.json        # Dependency management
-├── vite.config.ts      # Vite configuration
-├── tailwind.config.js  # Tailwind CSS setup
-├── tsconfig.json       # TypeScript config
-└── .gitignore          # Git ignore rules
+├── public/             
+├── src/                
+├── index.html          
+├── package.json        
+├── vite.config.ts      
+├── tailwind.config.js  
+├── tsconfig.json       
+└── .gitignore         
 ```
 
 ##  License
