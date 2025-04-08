@@ -1,4 +1,4 @@
-# full-stack-developer-website
+
 # Full Stack Developers Project
 
 This project is a modern full-stack-ready frontend boilerplate built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. It is designed to be clean, fast, and scalable, making it a great starting point for any full-stack web application.
